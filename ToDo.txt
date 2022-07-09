@@ -1,0 +1,2 @@
+1. Implement the class RoutingProtocol according to specification.
+2. Implement bit stuffing and de-stuffing functions in the class SimPhy
